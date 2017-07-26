@@ -12,10 +12,10 @@ A collection of front end tools, libraries, and references for digital cartoonis
 + [Packery](http://packery.metafizzy.com): Gapless, draggable grid layouts
 
 ---
-###jQuery
+### jQuery
 [jQuery](https://jquery.com/): "a fast, small, and feature-rich JavaScript library." jQuery is great for setting image-based interactions for simple user actions like hovering and clicking.
 
 ---
-###Libraries & Plugins
+### Libraries & Plugins
 + [Waypoints](http://imakewebthings.com/waypoints/): Track when users have arrived at certain points in your comic and trigger jQuery and JavaScript functions. jQuery and no framework versions available.
 + [Featherlight](https://noelboss.github.io/featherlight/): "Featherlight is a very lightweight jQuery lightbox."
